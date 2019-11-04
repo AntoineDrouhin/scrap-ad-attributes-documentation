@@ -1,0 +1,20 @@
+{
+  "name": "scrap-ad-attributes-documentation",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "author": "antoine drouhin <antoine.drouhin@gmail.com>",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "lodash": "^4.17.15",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.13",
+    "@types/lodash": "^4.14.109",
+    "@types/node": "^10.12.18",
+    "@types/node-fetch": "^2.5.3"
+  }
+}
