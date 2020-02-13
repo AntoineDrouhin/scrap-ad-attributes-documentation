@@ -7,3 +7,10 @@ The [list of attributes](./src/attributes.json) you want to retrieve is configur
 ## Goal
 
 Presenting a structured result allow for automated investiations on the active directory structure.
+
+## usage
+
+```
+  npm install
+  npm start
+```
