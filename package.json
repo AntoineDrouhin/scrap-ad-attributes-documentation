@@ -9,7 +9,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "lodash": "^4.17.15",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {
     "@types/cheerio": "^0.22.13",
